@@ -7,4 +7,4 @@ description: 블로그에 첫 게시글 작성하기
 media_subpath: /파일경로/
 ---
 
-이게 머지
+첫 글을 게시했습니다!
