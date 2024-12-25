@@ -67,9 +67,3 @@ VPC 내부 Subnet에 접근하기 전 Network ACL에서 1차로 제어하고
 전체적으로 NACL과 ACG가 서로의 취약점을 상호 보완하며 보안을 제어하는 것을 알 수 있다.
 
 
-✉️ E-mail : quitendexit@gmail.com 
-📞 Tel : +82-10-9016-8417
-💻 GitHub : https://github.com/Bulgogi-Pizza
-📚 Blog :  [http://Bulgogi-Pizza.github.io](http://bulgogi-pizza.github.io/)
-
-
