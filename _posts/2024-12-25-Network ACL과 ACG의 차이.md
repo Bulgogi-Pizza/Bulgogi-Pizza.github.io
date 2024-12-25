@@ -38,7 +38,9 @@ VPC 내부 Subnet에 접근하기 전 Network ACL에서 1차로 제어하고
 - ACG는 트래픽 허용 여부 결정 전 모든 규칙을 평가한다.
 
 우선순위가 왜 필요한지 잘 모르겠다.
--> ![img.png](../assets/NACL_ACG_img/NACL_priority_reason.png)
+
+![img.png](../assets/NACL_ACG_img/NACL_priority_reason.png)
+
 챗GPT가 그렇다고 한다.
 
 글을 읽어보니 납득이 간다. 정리하자면,
