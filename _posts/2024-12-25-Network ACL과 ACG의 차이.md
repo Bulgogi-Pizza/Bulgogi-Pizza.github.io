@@ -1,5 +1,5 @@
 ---
-title: NCA_개념정리_1
+title: Network ACL과 ACG의 차이
 date: 2024-12-25 21:52:00 +0900
 categories: [자격증, Cloud, NCA]
 tags: [NCP,NCA,네이버클라우드,네이버클라우드플랫폼,서버,클라우드]
